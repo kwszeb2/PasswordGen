@@ -1,1 +1,1 @@
-Project uses randon characters from the string array to create passwords and give a list of random number of passwords.
+Project uses randon characters from the string array to creates a list of passwords that is randomly generated.
